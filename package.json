@@ -1,0 +1,14 @@
+{
+  "name": "js_struct",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "type": "module",
+  "dependencies": {
+    "benny": "^3.7.1"
+  }
+}
